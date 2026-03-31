@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dream_Core_MC-t3Ht.aternos.me",
+    "ip": "Dream_Core_MC-t3Ht.aternos.me:44319",
     "port": 44319,
     "version": "",
     "try-creative": false
